@@ -1,4 +1,4 @@
 # Praktikum Machine Learning Pertemuan 1
-<p>Nama : Suyono 
+<pre>Nama : Suyono 
 Kelas : SD2323 
-NIM : 21110002</p> 
+NIM : 21110002</pre> 
